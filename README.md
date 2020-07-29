@@ -11,4 +11,4 @@
 </p>
    
        
-<p align="center"><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">generate your own readme like this</a></p>
+<p align="center"><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">generate your own readme like above</a></p>
