@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently working on **SysJust.Inc**
 
+- 🌱 I’m currently learning **Cucumber, Testcafe, some E2E testing skills**
+
+- 📝 I regulary write articles on **https://showwell0120.github.io/cherylswhisper/**
+
 - 📫 How to reach me **showwell0120@gmail.com**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/></p><p align="center">
@@ -12,3 +16,5 @@
    
        
 <p align="center"><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">generate your own readme like above</a></p>
+<p align="center">Latest edited: 2020/7/29</p>
+ 
