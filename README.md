@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YURI</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-- 🔭 I’m currently working on **[Migo](https://migo.io/)**
+- 🔭 I’m currently working on **[Migo](https://migo.io/)** and **[ALPHA C](https://tw.alphacamp.co/)**
 
 - 🌱 I’m currently learning **React, TypeScript, Testing, Next.js**
 
